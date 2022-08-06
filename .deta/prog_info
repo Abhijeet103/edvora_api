@@ -1,0 +1,1 @@
+{"id":"36374df5-9f13-419d-80d9-a951a98f5973","space":27997,"runtime":"python3.9","name":"edvora","path":"ei3oz0","project":"c0n2473l","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","uvicorn","sqlalchemy","passlib","bcrypt","python-multipart","aiofiles","python-jose"],"envs":null,"public":true,"log_level":"off","cron":""}
